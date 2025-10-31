@@ -1,0 +1,31 @@
+First, i have added length features which increased the accuracy to 1 percent
+
+Length Features:
+len(text): The total length of the text.
+len(text.strip()): The length of the text without leading and trailing whitespaces.
+len(words): The number of words in the text.
+These features capture basic length information about the text, providing insights into overall text structure and potential variations.
+
+Character Counts:
+text.count(char): Counts occurrences of various characters such as space, '0', 'o', '~', '@', ':', '?', '/', '+', '*'.
+these are the features which increased my accuracy and put me on 6th opsition on leaderboard. Only with count my accuracy increased.
+
+Word-level Counts:
+Counts lowercase words,Counts numeric words,Counts uppercase words,Counts alphanumeric characters.
+These features capture characteristics related to the distribution of lowercase, uppercase, and numeric words in the text.
+
+Specific Word Counts:
+Counts occurrences of the word 'From:','Path:','Lines:'.
+Identifying specific words can be critical for distinguishing certain segment types.
+
+Custom Features which i added - these only increased my accuracy by 1 percent:
+ratio(words): The ratio of words containing digits to the total number of words.
+totalNum(words): The total number of words containing digits.
+sum(1 if colon(w) else 0 for w in words): Counts occurrences of words that start with an uppercase letter and end with a colon.
+These custom features were designed based on observations. 
+I had to remove a lot of custom features because they reduced the accuracy even though they were good.
+
+for example, i removed address features, Ptext feature because they decreased my accuracy.
+Overall, each feature provided some value.
+In the end, i used random tree classifier instead of decision tree classifier because it increased by accuracy by 1 percent.
+Finally, i got 89% for both

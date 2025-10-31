@@ -1,0 +1,16 @@
+So to increase the accuracy, i tried to add a lot of features in the starting but that didnt give good results 
+I tried to add the features one by one and check how its affecting the accuracy.
+1. I tried to make use of all the word lists which was created before, just by using that my accuracy was high by 5%.
+2. First, for titles. I checked if the previous word was a title. if its a title then the full stop after that is not a end of sentence.
+3. next, for proper nouns. usually most of the time the proper nous will not be the end of sentence so i inlcuded it
+4. i have also made use of timeframes, the words related to time will help in determing the EOS
+5. I also included the len of the 3 words beofore and after. I'm checking if there is any capital letter in the words 
+6. i also checked in the period in present in the word. if its present it is most probably the abbrevation
+7. so, these features allow the model to recognize patterns where the presence of specific characters 
+within words influences the decision about whether a period signifies the end of a sentence.
+8. I implemented the logic classifier but that reduced my accuray by 1%
+9. I also implemented random forest classifier which almost gave the same accuracy just 0.002 point increase
+10. In the end, i choose random forest
+
+so when i executed on my PC, i got an accuracy of 0.998
+

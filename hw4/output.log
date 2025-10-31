@@ -1,0 +1,75 @@
+DEBUG:visited:http://www.cs.jhu.edu
+DEBUG:extracted:('http://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#alert
+DEBUG:extracted:('http://www.cs.jhu.edu#alert', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#alert', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#menu
+DEBUG:extracted:('http://www.cs.jhu.edu#menu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#menu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#menu
+DEBUG:extracted:('http://www.cs.jhu.edu#menu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#menu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#skip_content
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#skip_content
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#skip_content
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:http://www.cs.jhu.edu#skip_content
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('http://www.cs.jhu.edu#skip_content', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:visited:https://www.cs.jhu.edu#alert
+DEBUG:extracted:('https://www.cs.jhu.edu#alert', 'EMAIL', 'contactus@cs.jhu.edu')
+DEBUG:extracted:('https://www.cs.jhu.edu#alert', 'EMAIL', 'contactus@cs.jhu.edu')

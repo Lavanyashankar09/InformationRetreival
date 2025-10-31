@@ -1,0 +1,15 @@
+Overrall, TFIDF and cosine performed well.
+Across various configurations, cosine similarity consistently performs well, 
+especially when combined with TFIDF and boolean values for term weighting and stopword removal. 
+Jaccard similarity also demonstrates competitive performance, particularly with TFIDF. 
+Dice and overlap metrics tend to have lower precision values compared to cosine and Jaccard, 
+with overlap outperforming Dice. TFIDF consistently yields good results, while boolean values for 
+term weighting and stopword removal also show competitive outcomes. 
+The impact of stopword removal is dependent on other factors. 
+Normalization (r_norm and p_norm) doesn't consistently improve performance. 
+Overall, configurations with TFIDF, and cosine similarity often achieve high
+ precision values for both sets of documents. The choice of specific parameters significantly 
+ influences performance, making it crucial to tailor configurations to the nature of the document 
+ sets and underlying data characteristics.
+
+ I have shared the answers for remaining in the tsv file.
